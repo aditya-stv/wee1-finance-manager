@@ -28,7 +28,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/ThashmikaX/Finance-Tracker-web]
+   git clone [https://github.com/aditya-stv/wee1-finance-manager]
    
 2. **Install dependencies:**
 
